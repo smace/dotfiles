@@ -1,4 +1,5 @@
 tap "homebrew/bundle"
-
+brew "chezmoi"
+brew "node"
 cask "ghostty"
 cask "logi-options+"
