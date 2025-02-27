@@ -1,13 +1,15 @@
 tap "homebrew/bundle"
-
 brew "chezmoi"
+brew "grype"
+brew "hadolint"
+brew "lazygit"
 brew "neovim"
 brew "node"
 brew "starship"
-
+brew "syft"
 cask "font-victor-mono-nerd-font"
-cask "nvidia-geforce-now"
 cask "ghostty"
 cask "logi-options+"
+cask "nvidia-geforce-now"
 cask "orbstack"
 cask "whisky"
